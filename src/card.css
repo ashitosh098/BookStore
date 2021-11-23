@@ -1,0 +1,11 @@
+.cardbody{
+    border:2px solid rgb(39, 33, 31);
+}
+
+
+.addBook{
+    margin-top: 5px;
+    border:2px solid black;
+    color:hsl(0, 5%, 13%);
+    background-color: hsl(0, 13%, 63%);
+  }
